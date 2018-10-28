@@ -15,7 +15,6 @@ public class CalculoDividir implements Calculadora{
 				resultado = valor;
 			} else {
 				resultado.subtract(valor);
-				
 			}
 		}
 		return resultado;
